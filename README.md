@@ -1,5 +1,5 @@
 # RoboticArmSystem
-An automatically sorting Robotic Arm System。 Download the Assets, packages, and project settings.
+An automatically sorting Robotic Arm System. To build the scene, just download the Assets, packages, and project settings.
 
 Gameplay
 The player observes a robotic arm operating on a conveyor belt and ensures that the arm correctly classifies continuously generated cubes.
